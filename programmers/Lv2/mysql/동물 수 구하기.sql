@@ -1,0 +1,1 @@
+SELECT COUNT(1) AS animal_cnt FROM ANIMAL_INS;
